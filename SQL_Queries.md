@@ -1,5 +1,7 @@
 # Ejercicios - EMPRESA JARDINERÍA
 
+![Modelo Entidad-Relación](MODELO%20ENTIDAD-RELACI%C3%93N.png)
+
 ## <span style="color:aqua">Consultas sobre una tabla</span>
 
 1. Devuelve un listado con el código de oficina y la ciudad donde hay oficinas.
