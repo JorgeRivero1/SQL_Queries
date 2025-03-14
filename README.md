@@ -13,7 +13,6 @@ Este conjunto de ejercicios abarca:
 ### 🛠️ Tecnologías Utilizadas
 - **MySQL** como sistema de gestión de bases de datos.
 - **Lenguaje SQL** para la realización de consultas.
-- **Jupyter Notebook** o cualquier entorno SQL para ejecutar los ejercicios.
 
 ### 🎯 Objetivos del Proyecto
 ✅ Aprender y reforzar el uso de SQL mediante ejercicios prácticos.
@@ -27,5 +26,5 @@ El archivo contiene un conjunto de consultas estructuradas en diferentes seccion
 - **Subconsultas** 🔍
 - **Consultas de resumen** 📈
 
-Estas preguntas junto con la base de datos para poder realizar este proyecto de la página web con URL: https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html AUTOR: José Juan Sánchez Hernández
+Las preguntas junto con la base de datos para poder realizar este proyecto se han obtenido de la página web con URL: https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html AUTOR: José Juan Sánchez Hernández
 
